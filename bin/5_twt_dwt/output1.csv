@@ -1,0 +1,4 @@
+item,state1,t-wt(state1),d-wt(state1),state2,t-wt(state2),d-wt(state2),both_state,t-wt(both_state),d-wt(both_state)
+TV,80,25,40,240,75,30,320,100,32,
+TV,120,17.6471,60,560,82.3529,70,680,100,68,
+TV,200,20,100,800,80,100,1000,100,100,

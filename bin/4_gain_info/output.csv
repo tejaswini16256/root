@@ -1,0 +1,6 @@
+info(T):0.940286
+attribute,info(X T),Info_gain(X T)
+outlook,0.693536,0.24675
+temp,0.911063,0.0292226
+humidity,0.78845,0.151836
+windy,0.892159,0.048127

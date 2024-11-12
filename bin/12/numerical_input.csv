@@ -1,0 +1,15 @@
+outlook, temp, humidity, windy, classLabel
+sunny,85,85,FALSE,noplay
+sunny,80,90,TRUE,noplay
+overcast,83,78,FALSE,play
+rain,70,96,FALSE,play
+rain,68,80,FALSE,play
+rain,65,70,TRUE,noplay
+overcast,64,65,TRUE,play
+sunny,72,95,FALSE,noplay
+sunny,69,70,FALSE,play
+rain,75,80,FALSE,play
+sunny,75,70,TRUE,play
+overcast,72,90,TRUE,play
+overcast,81,75,FALSE,play
+rain,71,80,TRUE,noplay

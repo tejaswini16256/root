@@ -1,0 +1,8 @@
+center: {0,0}
+distanec matrix:
+point,point1,point2,point3,point4,point5,
+point1,0,5,5.09902,2.23607,6.08276,
+point2,,0,4.12311,3.16228,2.82843,
+point3,,,0,5,2.23607,
+point4,,,,0,5.09902,
+point5,,,,,0,

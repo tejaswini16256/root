@@ -1,0 +1,6 @@
+Gini(T):0.459184
+attribute,Gini(X T),Reduction in Gini Index
+outlook,0.342857,0.116327
+temp,0.440476,0.0187075
+humidity,0.367347,0.0918367
+windy,0.428571,0.0306122
